@@ -1,11 +1,11 @@
 const d = document;
 
-const api_key = "1de465f4c3966ba3201caea1151b618b";
+const api_key = "";
 const url_clima = "https://api.openweathermap.org/data/2.5/";
 const idioma = "es";
 const unit = "metric";
 
-const api_key_map = "AIzaSyCCrH1BJCtcHYPPq0akoh5MtOrABpBEacI";
+const api_key_map = "";
 const url_map = "https://maps.googleapis.com/maps/api/staticmap?";
 const v_map = 1;
 const tipo_mapa = "place";
