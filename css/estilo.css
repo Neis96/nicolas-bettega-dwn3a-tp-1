@@ -14,9 +14,10 @@
     src: url(../res/font/Montserrat-Bold.otf);
 }
 
+
 /* ----- paleta de colores usada ------ */
+
 :root {
-    /* --azul: rgb(38, 70, 83, 1); */
     --blanco: #f6fafb;
     --azul:#374957;
     --texto-footer: #bac8d3;
@@ -77,17 +78,15 @@ h2{
 .respuesta{
     background-color: var(--gris-claro);
     min-height: 20em;
-    /* color: var(--blanco); */
 }
 .estado img{
-    /* background-image: var(--blanco); */
+   
     width: 5em;
     padding-left: 2 em;
 }
 .vent-clima{
     background-color: var(--blanco);
     border-radius: 0.2em;
-    /* background-color: var(--blanco); */
 }
 .hora{
     font-size: 3em;
